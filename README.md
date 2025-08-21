@@ -625,7 +625,7 @@
 
 <!--Buy me a coffee-->
 <div align="center">
-<a href="https://t.me/NettixCode" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/150px-Telegram_2019_Logo.svg.png" alt="Buy Me A Coffee" style="height: 120px !important;width: 200px !important;" ></a>
+<a href="https://t.me/NettixCode" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/150px-Telegram_2019_Logo.svg.png" alt="Buy Me A Coffee" style="height: 120px !important;width: 120px !important;" ></a>
 </div>
 
 <!--Footer--> 
