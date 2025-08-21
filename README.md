@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴛᴜsᴀʀ ᴋʜᴀɴ!  
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ NettixCode!  
 *Aspiring Software Developer | CS Student*
 <br /> 
 
@@ -25,7 +25,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MrTusarRX&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="MrTusarRX" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=NettixCode&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="NettixCode" style="padding-right:20px;" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://github.com/MrTusarRX">
+  <a href="https://github.com/NettixCode">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MrTusarRX&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
       <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=MrTusarRX&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
@@ -74,7 +74,7 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/MrTusarRX">
+        <a href="https://github.com/NettixCode">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrTusarRX&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
@@ -82,7 +82,7 @@
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/MrTusarRX">
+        <a href="https://github.com/NettixCode">
           <img align="center" src="https://streak-stats.demolab.com?user=MrTusarRX&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
@@ -92,16 +92,16 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/MrTusarRX/Apk-signer-pro">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=MrTusarRX&repo=Apk-signer-pro&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
+        <a href="https://github.com/NettixCode/Framework">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=NettixCode&repo=Framework&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/MrTusarRX">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=MrTusarRX&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Contributions" />
+        <a href="https://github.com/NettixCode">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=NettixCode&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Contributions" />
         </a>
       </p>
     </td>
@@ -112,7 +112,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrTusarRX&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NettixCode&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 ---
@@ -597,8 +597,8 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="mailto:khantusar717@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="khantusar717@gmail.com" style="margin-bottom: 5px;" />
+<a href="mailto:NettixCode@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="NettixCode@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://x.com/your_twitter" target="_blank">
@@ -609,8 +609,8 @@
 <img src="./instagram.png" width=50 height=50 alt="Instagram" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.github.com/MrTusarRX" target="_blank">
-<img src="./github.png" width=50 height=50 alt="MrTusarRX" style="margin-bottom: 5px;" />
+<a href="https://www.github.com/NettixCode" target="_blank">
+<img src="./github.png" width=50 height=50 alt="NettixCode" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
@@ -625,7 +625,7 @@
 
 <!--Buy me a coffee-->
 <div align="center">
-<a href="https://t.me/mrtusarrx_op_mods" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/150px-Telegram_2019_Logo.svg.png" alt="Buy Me A Coffee" style="height: 120px !important;width: 200px !important;" ></a>
+<a href="https://t.me/NettixCode" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/150px-Telegram_2019_Logo.svg.png" alt="Buy Me A Coffee" style="height: 120px !important;width: 200px !important;" ></a>
 </div>
 
 <!--Footer--> 
